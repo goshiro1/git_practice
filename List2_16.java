@@ -36,6 +36,5 @@ public class List2_16 {
             		//次のループへ移動する際に改行する
 			System.out.println("");
 		}
-
 	}
 }
