@@ -4,7 +4,7 @@
  */
 package java_practice;
 
-public class hakuto_java012 {
+public class hakuto_java01_2 {
 
 	public static void main(String[] args) {
 		//標準出力
