@@ -1,3 +1,7 @@
+/*
+ * @author hakutosuzuki
+ * @since 2015/12/10
+ */
 package java_practice;
 
 public class Person {
