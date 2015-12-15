@@ -5,7 +5,7 @@
 package java_practice;
 
 public class List2_14 {
-	  　//フィールド変数scanner
+	//フィールド変数scanner
         private static java.util.Scanner scanner;
 
 	public static void main(String[] args){

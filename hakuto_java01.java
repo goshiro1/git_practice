@@ -34,6 +34,7 @@ public class List2_17 {
 			System.out.println(data[i]); 
 		}
 	}
+	
 	//bubble sort
 	public static void sort(int[] array){
 		int i,j,tmp;
