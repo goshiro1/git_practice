@@ -4,7 +4,7 @@
  */
 package java_practice;
 
-public class List2_14 {
+public class hakuto_java01_1 {
 	//フィールド変数scanner
         private static java.util.Scanner scanner;
 
